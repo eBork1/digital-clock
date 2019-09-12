@@ -3,3 +3,9 @@ p {
     font-size: 100pt;
     text-align: center;
 }
+
+.today p {
+    font-family: Helvetica;
+    font-size: 50pt;
+    text-align: center;
+}
